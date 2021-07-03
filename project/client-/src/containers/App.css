@@ -1,0 +1,15 @@
+.form {
+  margin: 4rem auto;
+}
+.yellowBox {
+  border: 2px solid orange;
+  width: 30rem;
+  margin: 0 auto;
+  padding: 3rem;
+  border-radius: 1rem;
+}
+.rowSpace > div {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
